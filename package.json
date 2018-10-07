@@ -1,6 +1,6 @@
 {
-  "name": "chip8",
-  "version": "0.1.0",
+  "name": "chip8-react",
+  "version": "0.0.1",
   "private": true,
   "dependencies": {
     "react": "^16.5.2",
